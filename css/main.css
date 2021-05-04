@@ -62,13 +62,14 @@ body {
   position: relative;
   border-radius: 3%;
   overflow: hidden;
+  box-shadow: 1px 1px 5px 3px hsl(227, 10%, 46%, 30%);
 }
 .container h3 {
   font-weight: 700;
 }
 .container p {
   font-weight: 400;
-  color: hsl(227, 10%, 46%);
+  color: hsl(0, 0%, 59%);
 }
 .container .img img {
   clip-path: circle(50%);
