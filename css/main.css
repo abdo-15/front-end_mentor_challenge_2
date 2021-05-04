@@ -11,8 +11,8 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   font-size: 18px;
   background-color: hsl(185, 75%, 39%);
-  background-image: url("/task/front-end_mentor_challenge_2/images/bg-pattern-top.svg"),
-    url(/task/front-end_mentor_challenge_2/images/bg-pattern-bottom.svg);
+  background-image: url("/front-end_mentor_challenge_2/images/bg-pattern-top.svg"),
+    url(/front-end_mentor_challenge_2/images/bg-pattern-bottom.svg);
   background-position: -110% 115%, 185% -70%;
   background-repeat: no-repeat;
 }
